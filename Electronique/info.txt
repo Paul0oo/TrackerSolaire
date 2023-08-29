@@ -1,1 +1,10 @@
+La partie électronique est séparée en deux:
+I) La gestion des valeurs retournées par les capteurs de luminosité
+II) Le contrôle du moteur en fonction des valeurs captées
 
+I) La gestion des valeurs retournées par les capteurs de luminosité
+
+On utilisera des capteurs de luminosité photorésistant montés dans des ponts diviseurs de tension afin de pouvoir relever la variation de tension lorsque leurs résistance varie. Voir schéma.
+
+
+II) Le contrôle du moteur en fonction des valeurs captées
